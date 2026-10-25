@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Electrical Engineering @ Sonoma State University</title>
+</head>
+
+<body>
+
+<h1>Brandon McCulloch - IoT course webpage</h1>
+
+<?php
+echo "<p>Testing PHP Functionality</p>";
+?>
+
+</body>
+</html>
